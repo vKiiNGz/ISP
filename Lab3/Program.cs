@@ -187,7 +187,6 @@ namespace LR_3
                     gameArr[i].ShortInfo();
                     Console.WriteLine("");
                 }
-                
             }
         }
 
