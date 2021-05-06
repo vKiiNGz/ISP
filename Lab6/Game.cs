@@ -87,7 +87,6 @@ namespace LR_6
             }
         }
 
-
         public Game(string name, float playerRating, float pressRating, int timeToPass, string developer)
         {
             this.name = name;
