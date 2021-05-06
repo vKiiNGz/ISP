@@ -67,6 +67,7 @@ namespace LR_6
             Console.WriteLine("Enter the developer of the game: ");
             developer = Console.ReadLine();
         }
+        
         public int CompareTo(Game compar)
         {
             if (playerRating > compar.playerRating)
