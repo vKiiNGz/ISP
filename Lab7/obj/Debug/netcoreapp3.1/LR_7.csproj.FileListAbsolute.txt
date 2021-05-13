@@ -1,0 +1,13 @@
+D:\programm\053502\sem_2\ISP\LR_7\bin\Debug\netcoreapp3.1\LR_7.exe
+D:\programm\053502\sem_2\ISP\LR_7\bin\Debug\netcoreapp3.1\LR_7.deps.json
+D:\programm\053502\sem_2\ISP\LR_7\bin\Debug\netcoreapp3.1\LR_7.runtimeconfig.json
+D:\programm\053502\sem_2\ISP\LR_7\bin\Debug\netcoreapp3.1\LR_7.runtimeconfig.dev.json
+D:\programm\053502\sem_2\ISP\LR_7\bin\Debug\netcoreapp3.1\LR_7.dll
+D:\programm\053502\sem_2\ISP\LR_7\bin\Debug\netcoreapp3.1\LR_7.pdb
+D:\programm\053502\sem_2\ISP\LR_7\obj\Debug\netcoreapp3.1\LR_7.csprojAssemblyReference.cache
+D:\programm\053502\sem_2\ISP\LR_7\obj\Debug\netcoreapp3.1\LR_7.AssemblyInfoInputs.cache
+D:\programm\053502\sem_2\ISP\LR_7\obj\Debug\netcoreapp3.1\LR_7.AssemblyInfo.cs
+D:\programm\053502\sem_2\ISP\LR_7\obj\Debug\netcoreapp3.1\LR_7.csproj.CoreCompileInputs.cache
+D:\programm\053502\sem_2\ISP\LR_7\obj\Debug\netcoreapp3.1\LR_7.dll
+D:\programm\053502\sem_2\ISP\LR_7\obj\Debug\netcoreapp3.1\LR_7.pdb
+D:\programm\053502\sem_2\ISP\LR_7\obj\Debug\netcoreapp3.1\LR_7.genruntimeconfig.cache

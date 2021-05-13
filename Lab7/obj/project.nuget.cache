@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HTYEFCsQ88Goa7BGBZEFshDlVC+GC1cJ43YpxMdwo5tDrdIRU64WjAy7pWniwr/GpEcvKIJbQ5XUa0SU4kE/Sw==",
+  "success": true,
+  "projectFilePath": "D:\\programm\\053502\\sem_2\\ISP\\LR_7\\LR_7.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
